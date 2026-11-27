@@ -23,7 +23,7 @@
 	<!-- Entity Framework Core -->
 	<PackageVersion Include="Microsoft.EntityFrameworkCore" Version="10.0.15" />
 	<PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.15" />
-	<PackageVersion Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.3" />
+	<PackageVersion Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.4" />
 
 	<!-- Microsoft Extensions -->
 	<PackageVersion Include="Microsoft.Extensions.Configuration.Abstractions" Version="11.0.0" />
